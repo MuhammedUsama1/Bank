@@ -175,7 +175,7 @@ int MainMenu()
 }
 
 
-int main()
+void main()
 {
 	account acc[100];
 	welcome();
